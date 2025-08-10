@@ -60,8 +60,8 @@ Design, implement, and test a **Restoring Divider accelerator** along with an **
 
 Detailed **Project Reports** with design diagrams, simulation results, and analysis are available here:
 
-📄 **[Project Report — Part 1 (Divider Module Design)](https://chatgpt.com/c/CA5_Project_Report.pdf)**
-📄 **[Project Report — Part 2 (8-Bit Bus Interfacing)](https://chatgpt.com/c/CA6_Project_Report.pdf)**
+📄 **[Project Report — Part 1 (Divider Module Design)](https://github.com/ParsaBukani/Digital-Logic-Design/blob/main/Restoring%20Divider%20with%208-Bit%20Bus%20Interface/Part%201/Project%20Report%20-%20Part%201.pdf)**
+📄 **[Project Report — Part 2 (8-Bit Bus Interfacing)](https://github.com/ParsaBukani/Digital-Logic-Design/blob/main/Restoring%20Divider%20with%208-Bit%20Bus%20Interface/Part%202/Project%20Report%20-%20Part%202.pdf)**
 
 
 ## Acknowledgements
