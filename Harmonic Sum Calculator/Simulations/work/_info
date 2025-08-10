@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/parsa/Desktop/Programming/python/DLD
+vcontroller
+Z0 !s110 1735712573
+!i10b 1
+!s100 MdLnUMaK^OJ[K[[0m9oMb2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEEk6YJViCOf7NC6MA^71Z1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/parsa/Desktop/Programming/python/DLD/CA4
+w1734778076
+8C:/Users/parsa/Desktop/Programming/python/DLD/CA4/OSM.v
+FC:/Users/parsa/Desktop/Programming/python/DLD/CA4/OSM.v
+!i122 206
+L0 3 36
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1735712573.000000
+!s107 C:/Users/parsa/Desktop/Programming/python/DLD/CA4/OSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/parsa/Desktop/Programming/python/DLD/CA4/OSM.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vharmonic_sum_calculator
+R0
+!i10b 1
+!s100 R:;>W_zLbSPZn4EOhgb@H2
+R1
+I=]m[Nc>:hhk5KVUjF8dfS2
+R2
+R3
+Z8 w1734014587
+Z9 8C:/Users/parsa/Desktop/Programming/python/DLD/CA4/DATA_PATH.v
+Z10 FC:/Users/parsa/Desktop/Programming/python/DLD/CA4/DATA_PATH.v
+!i122 207
+L0 1 49
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/parsa/Desktop/Programming/python/DLD/CA4/DATA_PATH.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/parsa/Desktop/Programming/python/DLD/CA4/DATA_PATH.v|
+!i113 1
+R6
+R7
+vrams_sp_rom_1
+R0
+!i10b 1
+!s100 DE@N2GZDfizUOQUN=eINT0
+R1
+I^=oBe0eLL=YYb^CQInBi91
+R2
+R3
+R8
+R9
+R10
+!i122 207
+L0 55 38
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
+vtb_harmonic_sum_calculator
+!s110 1735712574
+!i10b 1
+!s100 i_NGbQ?3i;Q`6gR3ob`OB1
+R1
+IMGjE[i7G]z38=e8R[A65>1
+R2
+R3
+w1734467913
+8C:/Users/parsa/Desktop/Programming/python/DLD/CA4/TEST_BENCH.v
+FC:/Users/parsa/Desktop/Programming/python/DLD/CA4/TEST_BENCH.v
+!i122 208
+L0 2 71
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/parsa/Desktop/Programming/python/DLD/CA4/TEST_BENCH.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/parsa/Desktop/Programming/python/DLD/CA4/TEST_BENCH.v|
+!i113 1
+R6
+R7

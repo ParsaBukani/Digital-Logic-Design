@@ -1,0 +1,23 @@
+C:/Users/parsa/Desktop/Programming/python/DLD/CA4/OSM.v {1 {vlog -work work -stats=none C:/Users/parsa/Desktop/Programming/python/DLD/CA4/OSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/parsa/Desktop/Programming/python/DLD/CA4/TEST_BENCH.v {1 {vlog -work work -stats=none C:/Users/parsa/Desktop/Programming/python/DLD/CA4/TEST_BENCH.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_harmonic_sum_calculator
+
+Top level modules:
+	tb_harmonic_sum_calculator
+
+} {} {}} C:/Users/parsa/Desktop/Programming/python/DLD/CA4/DATA_PATH.v {1 {vlog -work work -stats=none C:/Users/parsa/Desktop/Programming/python/DLD/CA4/DATA_PATH.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module harmonic_sum_calculator
+-- Compiling module rams_sp_rom_1
+
+Top level modules:
+	harmonic_sum_calculator
+
+} {} {}}

@@ -1,0 +1,15 @@
+C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/uut_fast.vo {1 {vlog -work work C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/uut_fast.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module System
+
+Top level modules:
+	System
+
+} {} {}} C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/test_bench.v {1 {vlog -work work C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/test_bench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

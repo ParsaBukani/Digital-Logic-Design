@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\parsa\Desktop\Programming\python\DLD\Mahdis
+vSystem
+Z1 !s100 EPVVh6bTQLChP_ALMZIbS3
+Z2 I3JT@EJaiiY[io=o5ilP4=3
+Z3 VD:dIIY40`fVR;k]nNUla[0
+Z4 dC:\Users\parsa\Desktop\Programming\python\DLD\CA6\post_simulation
+Z5 w1738225371
+Z6 8C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/uut_fast.vo
+Z7 FC:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/uut_fast.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/uut_fast.vo|
+Z10 o-work work -O0
+Z11 n@system
+!i10b 1
+!s85 0
+Z12 !s108 1738396291.357000
+Z13 !s107 C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/uut_fast.vo|
+!s101 -O0
+vtestbench
+!i10b 1
+Z14 !s100 `WCf:Z@ilnA7gJKg[ic7E1
+Z15 I07=NzXocC1oK^5:aN0^0n2
+Z16 VhGfW:390DM[oDMzegDH9`2
+R4
+Z17 w1738227758
+Z18 8C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/test_bench.v
+Z19 FC:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/test_bench.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1738396291.604000
+!s107 C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/test_bench.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/parsa/Desktop/Programming/python/DLD/CA6/post_simulation/test_bench.v|
+!s101 -O0
+R10

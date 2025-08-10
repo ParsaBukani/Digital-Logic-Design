@@ -1,0 +1,43 @@
+`timescale 1 ps/ 1 ps
+
+module controller(input clk, rst, start, comperator_output, output reg reset_datapath, reset_n, add_en, count_en, n_en);
+
+parameter [1:0] idle = 2'b00, init = 2'b01, load = 2'b11, adding = 2'b10;
+reg [1:0] pstate, nstate;
+
+always @(pstate, start, comperator_output) begin
+    nstate = 2'b0;
+    {reset_datapath, reset_n, add_en, count_en, n_en} = 5'b00000;
+
+    case(pstate)
+        idle: nstate = start ? init : idle;
+        init: begin 
+            nstate = start ? init : load; 
+            reset_n = 1;
+        end
+        load: begin 
+            nstate = adding;
+            reset_datapath = 1;
+            reset_n = 0;
+            n_en = 1;
+        end 
+        adding: begin 
+            nstate = comperator_output ? idle : adding;
+            {add_en, count_en} = 2'b11;
+        end
+    endcase
+end
+
+always @(posedge clk, posedge rst) begin
+    if (rst)
+        pstate <= idle;
+    else
+        pstate <= nstate;
+end
+
+endmodule
+
+
+
+
+

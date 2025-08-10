@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Feb 02 09:32:06 2025
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : uut
+Top-level Entity Name : System
+Family : Cyclone II
+Device : EP2C5F256C6
+Timing Models : Final
+Total logic elements : 154 / 4,608 ( 3 % )
+    Total combinational functions : 100 / 4,608 ( 2 % )
+    Dedicated logic registers : 132 / 4,608 ( 3 % )
+Total registers : 132
+Total pins : 23 / 158 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 0 / 119,808 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 26 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

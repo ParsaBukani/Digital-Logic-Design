@@ -1,0 +1,21 @@
+
+State Machine - |System|outputWrapper:output_wrapper|Controller_outputWrapper:controller|pstate
+Name pstate.providing_data pstate.waiting pstate.loading pstate.idle 
+pstate.idle 0 0 0 0 
+pstate.loading 0 0 1 1 
+pstate.waiting 0 1 0 1 
+pstate.providing_data 1 0 0 1 
+
+State Machine - |System|sequentialDivider:seq_divider|Controller_SequentialDivider:controller|pstate
+Name pstate.load pstate.dividing pstate.init pstate.idle 
+pstate.idle 0 0 0 0 
+pstate.init 0 0 1 1 
+pstate.dividing 0 1 0 1 
+pstate.load 1 0 0 1 
+
+State Machine - |System|inputWrapper:input_wrapper|Controller_inputWrapper:controller|pstate
+Name pstate.receiving_data pstate.getting pstate.init pstate.idle 
+pstate.idle 0 0 0 0 
+pstate.init 0 0 1 1 
+pstate.getting 0 1 0 1 
+pstate.receiving_data 1 0 0 1 
