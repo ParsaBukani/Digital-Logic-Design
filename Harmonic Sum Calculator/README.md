@@ -6,7 +6,7 @@ Design and implement a harmonic sum calculator using an orthogonal state machine
 
 ## Objectives
 
--   Design an orthogonal state machine to compute the harmonic sum Sn=1+12+13+⋯+1nS_n = 1 + \frac12 + \frac13 + \dots + \frac1n.
+-   Design an orthogonal state machine to compute the harmonic sum $S_n = 1 + \frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{n}$.
     
 -   Store precomputed reciprocal values in ROM for term retrieval.
     
@@ -35,7 +35,7 @@ Design and implement a harmonic sum calculator using an orthogonal state machine
     -   Identify differences and analyze causes.
         
 
-_A detailed **Project Report** with design diagrams, simulation results, and analysis is available here: [📄 Project_Report.pdf](https://github.com/ParsaBukani/Digital-Logic-Design/blob/main/Harmonic%20Sum%20Calculator/Project%20Report.pdf)_
+_A detailed **Project Report** with design diagrams, simulation results, and analysis is available here: [Project_Report.pdf](https://github.com/ParsaBukani/Digital-Logic-Design/blob/main/Harmonic%20Sum%20Calculator/Project%20Report.pdf)_
 
 ## Acknowledgements
 
