@@ -19,9 +19,7 @@ These projects cover foundational and advanced topics in digital logic design, i
 | **CA2**     | Combinational RTL Design & Simulation               | Multi-bit adders built from ODD3 and MAJ modules. Design and simulation of a 63-input one’s counter with timing analysis.                     | [View Project](https://github.com/ParsaBukani/Digital-Logic-Design/tree/main/Combinational%20RTL%20Design)  |
 | **CA3**     | Basic Flip-Flops and Memory Elements                 | Design and simulation of SR and D latches, master-slave flip-flops, registers, and sequence adders. Functional and timing comparison.          | [View Project](https://github.com/ParsaBukani/Digital-Logic-Design/tree/main/Basic%20Flip-Flops%20%26%20Memory%20Elements) |
 | **CA4**     | State Machine Coding — Harmonic Sum Calculator      | Orthogonal FSM design using ROM-stored reciprocals. Pre- and post-synthesis simulations and FPGA implementation.                              | [View Project](https://github.com/ParsaBukani/Digital-Logic-Design/tree/main/Harmonic%20Sum%20Calculator) |
-| **CA5 
-& 
-CA6** | RTL Accelerator — Restoring Divider with 8-Bit Bus Interface | Part 1: 16-bit Restoring Divider design and verification. Part 2: 8-bit bus input/output wrappers and integration.                           | [View Project](https://github.com/ParsaBukani/Digital-Logic-Design/tree/main/Restoring%20Divider%20with%208-Bit%20Bus%20Interface) |
+| **CA5 & CA6** | RTL Accelerator — Restoring Divider with 8-Bit Bus Interface | Part 1: 16-bit Restoring Divider design and verification. Part 2: 8-bit bus input/output wrappers and integration.                           | [View Project](https://github.com/ParsaBukani/Digital-Logic-Design/tree/main/Restoring%20Divider%20with%208-Bit%20Bus%20Interface) |
 
 
 ## License
