@@ -35,6 +35,8 @@ Design and implement a harmonic sum calculator using an orthogonal state machine
     -   Identify differences and analyze causes.
         
 
+
+## Project Report
 _A detailed **Project Report** with design diagrams, simulation results, and analysis is available here: [Project_Report.pdf](https://github.com/ParsaBukani/Digital-Logic-Design/blob/main/Harmonic%20Sum%20Calculator/Project%20Report.pdf)_
 
 ## Acknowledgements
